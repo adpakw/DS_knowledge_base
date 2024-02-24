@@ -1,2 +1,2 @@
-# ML-learn
-Just learning ML
+# DS-learn
+Just learning DS
