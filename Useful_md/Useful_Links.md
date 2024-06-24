@@ -5,3 +5,5 @@
 [Design Patterns Examples 1](https://github.com/georgedem975/patterns/tree/master)
 
 [Design Patterns Examples 2](https://github.com/pkolt/design_patterns/tree/master)
+
+[Design Patterns Video](https://www.youtube.com/playlist?list=PLG7hNdgnQsvf0YIGZagE4qKat9MWC1BmK)
